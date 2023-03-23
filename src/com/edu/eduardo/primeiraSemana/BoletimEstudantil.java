@@ -1,3 +1,5 @@
+package com.edu.eduardo.primeiraSemana;
+
 public class BoletimEstudantil {
 
     public static void main(String[] args) {
